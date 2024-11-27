@@ -1,0 +1,120 @@
+.mana{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+    gap: 300px;
+    background-color: rgba(92, 85, 85, 0.229);
+    padding: 30px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 30px;
+
+}
+.mana ul li{
+    font-family: "Poppins", sans-serif;
+/* justify-content: space-between; */
+list-style-type: none;
+}
+.mana li{
+    font-family: "Poppins", sans-serif;
+    list-style-type: none;
+}
+.fortnite{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+.right-info ul{
+    display: flex;
+    gap: 100px;
+    list-style-type: none;
+}
+#det{
+    color: rgb(165, 41, 165);
+    text-decoration: underline;
+    /* margin-top: 0px; */
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 80px;
+}
+.right-info{
+    
+    background-color: rgba(92, 85, 85, 0.229);
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 30px;
+}
+.thumb{
+    background-image: url(feature-right.jpg);
+    height: 358px;
+    width: 776px;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+   
+
+}
+.thumb a i{
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 8px;
+    border-radius: 60px;
+    margin-top: 120px;
+    margin-left: 320px;
+}
+.he img{
+    border-radius: 30px;
+    height: 304px;
+    width: 376px;
+}
+.he{
+    margin-top: 60px;
+    margin-left: 200px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.il{
+    
+   
+   
+    align-items: center;
+display: flex;
+justify-content: center;
+gap: 30px;
+padding-top: 5px;
+
+}
+.cr{
+    background-color: rgba(92, 85, 85, 0.229);
+  padding: 20px;
+    border-radius: 30px;
+    gap: 30px;
+}
+.il img{
+    border-radius: 30px;
+    padding: 6px;
+}
+.il p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 10;
+    font-size: 15px;
+}
+.btnp{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    display: flex;
+    border: solid 1px red;
+    color: rgb(220, 20, 20);
+   align-items: center;
+   justify-content: center;
+padding: 16px;
+ border-radius: 30px;
+}
+.btnp:hover{
+    border: 1px solid white;
+}
